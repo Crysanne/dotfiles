@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = crysanne.yiannopoulos@ieseg.fr
+	name = Crysanne Yiannopoulos
